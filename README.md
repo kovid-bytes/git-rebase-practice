@@ -1,1 +1,1 @@
-this is the git rebase practise repo
+updated guideline
